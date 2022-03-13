@@ -1,7 +1,6 @@
 
 # IMDb_Ratings
-It uses imdb library for the database and tabulate for table creation...
-
+It uses IMDbPY library for the database of movies and "tabulate" library for table creation...
 
 ## Run Locally
 
